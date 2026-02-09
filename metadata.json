@@ -1,0 +1,5 @@
+{
+  "name": "TicketMaster Pro - Gestão de Chamados",
+  "description": "Uma plataforma completa para gestão de chamados de suporte, incluindo dashboard de KPIs, controle de status, alertas de SLA e um guia completo para implementação em Excel Web com Office Scripts.",
+  "requestFramePermissions": []
+}
